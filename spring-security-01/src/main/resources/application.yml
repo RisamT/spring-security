@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-security-01
+  security:
+    user:
+      name: root
+      password: root
+server:
+  port: 8001
