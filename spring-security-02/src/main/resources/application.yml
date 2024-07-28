@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-security-02
+  security:
+    user:
+      name: root
+      password: root
